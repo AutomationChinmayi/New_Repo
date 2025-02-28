@@ -13,7 +13,7 @@ class LoginPage(BasePage):
 
     #Locator Values in Login and sign up Pages
 
-    _enterPhoneNumer="//android.widget.EditText"  #xapth
+    _enterPhoneNumer="//android.widget.EditText"  #xapth1
     _continueButton="//android.widget.Button[@content-desc='Continue']"
     _enteringOtp="//android.widget.EditText"
     _verifyAndProceed="//android.widget.Button[@content-desc='Verify and Proceed']"
