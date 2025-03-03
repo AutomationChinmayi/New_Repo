@@ -1,8 +1,10 @@
 import pytest
 import time
 from base.DriverClass import Driver
+#from Appium_Automation.base.DriverClass import Driver
 
-@pytest.yield_fixture(scope='class')
+
+@pytest.fixture(scope='class')
 def beforeClass(request):
     print("Before CLass")
     driver1 = Driver()
@@ -18,7 +20,7 @@ def beforeClass(request):
     print("After CLass")
 
 
-@pytest.yield_fixture()
+@pytest.fixture()
 def beforeMethod():
     print("Before Method")
     yield

@@ -2,6 +2,7 @@ import time
 import unittest
 
 from pages.LoginPage import LoginPage
+
 from pages.WeddingPage import  WeddingPage
 import pytest
 

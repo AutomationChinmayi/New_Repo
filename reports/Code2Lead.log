@@ -619,3 +619,27 @@
 240225 11:1307 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
 240225 11:1308 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
 240225 11:1309 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+280225 03:4620 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+280225 03:4623 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+280225 03:4624 PM Friday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+280225 03:4626 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+280225 03:4627 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+280225 03:4628 PM Friday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+030325 10:5910 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 10:5913 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+030325 10:5914 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 10:5915 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+030325 10:5917 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+030325 10:5918 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+030325 11:0809 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 11:0812 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+030325 11:0813 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 11:0814 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+030325 11:0816 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+030325 11:0817 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
+030325 11:1910 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 11:1913 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Continue']
+030325 11:1913 AM Monday-BasePage- INFO : Send a text with locator typexpathwith locator value//android.widget.EditText
+030325 11:1915 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Verify and Proceed']
+030325 11:1916 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Open navigation menu']
+030325 11:1917 AM Monday-BasePage- INFO : Clicking on element withxpathwith locator value//android.widget.Button[@content-desc='Logout']
